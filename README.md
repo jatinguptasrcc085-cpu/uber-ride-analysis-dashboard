@@ -140,9 +140,9 @@ AVERAGE(Uber[Ride Distance])
 This repository contains:
 
 * Power BI Dashboard (.pbix) - [UBER_ANALYSIS_DASHBOARD.pbix](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/ac1a26eb5b7d5816569e3b10a14a5e54f40aed44/UBER_ANALYSIS_DASHBOARD.pbix)
-* Dataset (.xlsx/.csv)- https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/uber.xlsx
-* Dashboard Screenshot - https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/UBER_ANALYSIS_DASHBOARD.pdf
-* Images used in Project - https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/uber_images.zip
+* Dataset (.xlsx/.csv)- [Uber.xlsx](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/3294a9ac9ac888aab20ac59fd36cceb42ebc71b7/uber.xlsx)
+* Dashboard Screenshot - [Dashboard_ss.pdf](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/02f1154e1cbb2cd22795ad8c7e96030b7b60257b/Dashboard_ss)
+* Images used in Project - [Uber_images.zip](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/uber_images.zip)
 
 To explore the dashboard interactively, download the PBIX file and open it in Power BI Desktop.
 
