@@ -139,7 +139,7 @@ AVERAGE(Uber[Ride Distance])
 
 This repository contains:
 
-* Power BI Dashboard (.pbix) - UBER_ANALYSIS_DASHBOARD.pbix
+* Power BI Dashboard (.pbix) - [UBER_ANALYSIS_DASHBOARD.pbix](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/ac1a26eb5b7d5816569e3b10a14a5e54f40aed44/UBER_ANALYSIS_DASHBOARD.pbix)
 * Dataset (.xlsx/.csv)
 * Dashboard Screenshots
 * Project Documentation
