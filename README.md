@@ -140,9 +140,9 @@ AVERAGE(Uber[Ride Distance])
 This repository contains:
 
 * Power BI Dashboard (.pbix) - [UBER_ANALYSIS_DASHBOARD.pbix](https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/ac1a26eb5b7d5816569e3b10a14a5e54f40aed44/UBER_ANALYSIS_DASHBOARD.pbix)
-* Dataset (.xlsx/.csv)
-* Dashboard Screenshots
-* Project Documentation
+* Dataset (.xlsx/.csv)- https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/uber.xlsx
+* Dashboard Screenshot - https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/UBER_ANALYSIS_DASHBOARD.pdf
+* Images used in Project - https://github.com/jatinguptasrcc085-cpu/uber-ride-analysis-dashboard/blob/475f175e86de997475da3cc9dd09957f9d6c99a0/uber_images.zip
 
 To explore the dashboard interactively, download the PBIX file and open it in Power BI Desktop.
 
@@ -152,10 +152,8 @@ To explore the dashboard interactively, download the PBIX file and open it in Po
 
 ### Jatin Gupta
 
-**M.A. Economics | Jamia Millia Islamia**
-
 **B.A. (Hons.) Economics | Shri Ram College of Commerce (SRCC)**
 
 📧 [jatinguptasrcc085@gmail.com](mailto:jatinguptasrcc085@gmail.com)
 
-Open to opportunities in Data Analytics, Business Intelligence, Economic Research, and Consulting.
+Contact for collaboration and opportunities.
